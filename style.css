@@ -1,8 +1,12 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
 a{
-    font-style: italic
+    font-style: italic;
 }
 nav{
-    text-align: center;}
+    text-align: center;
+}
 h1{
-    text-align: center;}
+    text-align: center;
 }
